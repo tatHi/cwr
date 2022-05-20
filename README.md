@@ -10,7 +10,7 @@ This repository includes modules for the perturbation:
     - Compositional word replacement with a restriction considering subword length
 
 `example.py` overviews the usage of each perturbation module.
-You can see the outputs of each perturbation just run this code as the following (the results depends on random seeds):
+You can see the outputs of each perturbation just by running this script as the following (the results depends on random seeds):
 
 ```
 $ python example.py
